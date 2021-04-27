@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-28T08:55:24 AEST" name="Default suite" finished-at="2021-04-28T08:55:38 AEST" duration-ms="14512">
+    <groups>
+    </groups>
+    <test started-at="2021-04-28T08:55:24 AEST" name="Default test" finished-at="2021-04-28T08:55:38 AEST" duration-ms="14512">
+      <class name="testcases.ninenow.ForeignAffairtsTestCase">
+        <test-method signature="CapabilityEdgeFunction()[pri:2, instance:testcases.ninenow.ForeignAffairtsTestCase@2b72cb8a]" started-at="2021-04-28T08:55:24 AEST" name="CapabilityEdgeFunction" description="Validating Priority Prompt" finished-at="2021-04-28T08:55:38 AEST" duration-ms="14401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CapabilityEdgeFunction -->
+      </class> <!-- testcases.ninenow.ForeignAffairtsTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

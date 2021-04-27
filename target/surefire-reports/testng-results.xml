@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-28T09:14:26 AEST" name="Surefire suite" finished-at="2021-04-28T09:14:41 AEST" duration-ms="15526">
+    <groups>
+    </groups>
+    <test started-at="2021-04-28T09:14:26 AEST" name="Surefire test" finished-at="2021-04-28T09:14:41 AEST" duration-ms="15526">
+      <class name="testcases.ninenow.ForeignAffairtsTestCase">
+        <test-method signature="CapabilityEdgeFunction()[pri:2, instance:testcases.ninenow.ForeignAffairtsTestCase@5b7a7f33]" started-at="2021-04-28T09:14:26 AEST" name="CapabilityEdgeFunction" description="Validating Priority Prompt" finished-at="2021-04-28T09:14:41 AEST" duration-ms="15388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CapabilityEdgeFunction -->
+      </class> <!-- testcases.ninenow.ForeignAffairtsTestCase -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
